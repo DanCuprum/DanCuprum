@@ -1,7 +1,7 @@
 - 👋 Hi, I’m koppercraft
 - 👀 I’m interested in experimental programming, tool-dev, game-dev. (Unity, C#, .NET)
 - 🌱 I’m currently learning Content Creation, Self Marketing, Python/ML
-- 💞️ I’m looking to collaborate on anything (small to medium size projects, preferably Unity-related) 
+- 💞️ I’m looking to collaborate on anything (small to medium sized projects, preferably Unity-related) 
 - 📫 How to reach me: koppercraft@gmail.com, kopperfeld@gmail.com
 
 <!---
